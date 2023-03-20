@@ -1,5 +1,5 @@
 public class Slesaruk {
     static void print () {
-        System.out.println("Slesaruk");
+        System.out.println("Слесарук");
     }
 }
